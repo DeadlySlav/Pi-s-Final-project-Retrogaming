@@ -19,3 +19,14 @@ git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 ```
 cd RetroPie-Setup
 ```
+## run the script while in the directory using this command 
+```
+sudo ./retropie_setup.sh
+```
+
+# RetroPie start up
+## To start RetroPie enter this command while in the RetroPie-Setup directory
+```
+emulationstation
+```
+
