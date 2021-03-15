@@ -5,16 +5,7 @@
 ### GBA Emulator: https://retropie.org.uk/docs/Game-Boy-Advance/
 
 # RetroPie installstion 
-## Run these two commands to update APT repositories
-```
-sudo apt-get update
-sudo apt-get dist-upgrade
-```
 
-## Run this command to install git on the pi
-```
-sudo apt-get install git
-```
 ## Install the required RetroPie script packages
 ```
 sudo apt-get install -y git dialog unzip xmlstarlet
