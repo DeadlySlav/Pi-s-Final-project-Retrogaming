@@ -17,7 +17,7 @@ git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 
 ###  Enter the directory that contains the script to start the setup
 ```
-cd RetroPie-Setup
+cd retropie-Setup
 ```
 ###  run the script while in the directory using this command 
 ```
