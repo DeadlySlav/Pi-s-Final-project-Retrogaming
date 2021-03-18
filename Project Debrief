@@ -1,0 +1,3 @@
+# Project Debrief
+### This project uses the raspberry pi zero and a community made project which is RetroPie and installs a custom OS that has built in emulators.
+### Once roms have been added and the Pi Zero has been rebooted the RetroPie OS will automatically recognize the games and have the emulator ready to play your roms. 
