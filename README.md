@@ -1,6 +1,7 @@
 # Pie-s-Final-project-Retrogaming
 
 ## Source Links:
+####  RetroPie commands source: https://retropie.org.uk/docs/Manual-Installation/
 ####  RetroPie Website offical: https://retropie.org.uk/
 ####  GBA Emulator: https://retropie.org.uk/docs/Game-Boy-Advance/
 
